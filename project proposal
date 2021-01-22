@@ -1,0 +1,69 @@
+Project proposal
+University Network Implementation Using Cisco
+
+1.0 Purpose
+The entire world is moving towards the digital era. The educational institution plays
+an important role in this digitalization; hence the campus should adapt to digital
+means of networking as well and become a “digital campus”. Going wireless plays
+an important role in this digitalization. The wireless network makes the connection
+easy with a reduction in the use of wires or cables. A wired connection makes it
+difficult to keep track of all the devices and to manage the cable connection, which is
+not only chaotic but also challenging to handle.
+Campus networking via wireless connection becomes an important part of campus
+life and provides the main way for teachers and students to access educational
+resources, which gives an important platform to exchange information. As laptops
+and intelligent terminals are widely used, demand for access to information anytime
+and anywhere has become more and more urgent, but traditional cable networks
+cannot meet this requirement. Then wireless network construction becomes
+necessary and essential. The wireless network is one of the important components
+of a digital campus and wisdom campus. It provides an efficient way to explore the
+internet with a mobile terminal for teachers and students regardless of cables and
+places. This is an important mark of the modern campus as a supplement of a cable
+network. With the development of network and communication technology, cable
+networks on a university campus bring much convenience for teaching and research
+work. But for mobility and flexibility, it has obvious shortcomings. A wireless network
+can overcome these drawbacks and has been applied to the university campus.
+2.0 University Network Topology
+Computer networks have a significant impact on the working of an organization.
+Universities depend on the proper functioning and analysis of their networks for
+education, administration, communication, e-library, automation, etc. An efficient
+network is essential to facilitate the systematic and cost-efficient transfer of
+information in an organization in the form of messages, files, and resources. The
+project provides insights into various concepts such as topology design, IP address
+
+CISCO PACKET TRACER PROJECT PROPOSAL ALI AHMAD KHAN
+configuration, and how to send information in the form of packets to the wireless
+networks of different areas of a University.
+The aim of this project is to design the topology of the university network using the
+software Cisco Packet Tracer with the implementation of wireless networking
+systems. This university network consists of the following devices:
+
+1) Router
+2) Switches
+3) Email server
+4) DNS server
+5) WEB server
+6) Wireless Device
+7) PCs
+8) Laptops
+9) Smartphones
+4.0 Project Scope
+The major aim of this project is to show the wireless connectivity that is used in
+universities to make the network efficient and mobile at the same time. Mobility is the
+major concentration of this project. In order to provide equal functionality to all the
+users (University staff and students), we have added DNS, Email, and HTTP servers
+for the maximum utilization of resources.
+Hence the campus network provides different services such as connecting the user
+to the internet, data sharing among users (students, teachers, and different
+university members), accessing different web services for different functionalities, so
+it needs wireless networking for smooth processing.
+
+3.0 The design includes the following parts of
+the University:
+
+ Hostel Blocks: Girls Block and Boys Block
+ Academic Blocks: Block A, Block B, Block C and Block D
+ LAB, S: Lab 1, Lab 2, Lab 3.
+ Library
+ IT Consulting
+ Account Offices
